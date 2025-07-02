@@ -3,8 +3,4 @@
     "react-router": "^7.6.0"
   }
 }
-{
-"rewrites": [
-{ "source": "/(.*)", "destination": "/" }
-]
-}
+
