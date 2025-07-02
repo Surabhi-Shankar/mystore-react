@@ -1,0 +1,10 @@
+.font-title {
+font-size: 1.5rem;
+font-weight: bold;
+color: #fff;
+}
+
+.text-muted {
+color: #999;
+font-size: 0.875rem;
+}
